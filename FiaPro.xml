@@ -64,7 +64,7 @@
         <wcol_toolbar_item>
           <ThemeWidgetColors
             outline="#4d4d4d"
-            inner="#1b1b1bff"
+            inner="#1b1b1bb3"
             inner_sel="#304d9bff"
             item="#ffffffb3"
             text="#ffffff"
